@@ -1,4 +1,4 @@
-# Jaadu Ko Bulao | 2024
+# **Jaadu Ko Bulao | 2024**
 ## Overview
 "Jaadu Ko Bulao" is an interactive web project designed to create a fun and engaging user experience through the combination of multimedia elements like background videos, sound effects, and button animations. The project allows users to interact with the web page by clicking on buttons or pressing specific keys to trigger sound clips and visual effects.
 
