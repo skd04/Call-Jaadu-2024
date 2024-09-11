@@ -22,5 +22,4 @@ Features
 - **Button Animations**: Buttons exhibit a "pressed" animation to provide visual feedback when interacted with.
 
 ## Credits
-- Designed and Created by Shankhadeep
-  **© 2024 | Shankhadeep Workspace**
+© 2024 | Shankhadeep Workspace | Designed and Created by Shankhadeep
